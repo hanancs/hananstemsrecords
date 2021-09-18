@@ -34,7 +34,7 @@ export const Footer = () => {
           <></>
         ) : (
           <>
-            &nbsp;|&nbsp;<F.Link theme={theme} data-v2='source' aria-label='Source code' href=''>Source</F.Link>
+            &nbsp;|&nbsp;<F.Link theme={theme} data-v2='source' aria-label='Source code' href='https://github.com/hanancs/hananstemsrecords'>Source</F.Link>
           </>
         )}
       </F.Text>
